@@ -1,0 +1,7 @@
+C:\Users\Ayazhan Mendeshova\Desktop\PP2\Week1\FarM\FarM\bin\Debug\FarM.exe.config
+C:\Users\Ayazhan Mendeshova\Desktop\PP2\Week1\FarM\FarM\bin\Debug\FarM.exe
+C:\Users\Ayazhan Mendeshova\Desktop\PP2\Week1\FarM\FarM\bin\Debug\FarM.pdb
+C:\Users\Ayazhan Mendeshova\Desktop\PP2\Week1\FarM\FarM\obj\Debug\FarM.csproj.CoreCompileInputs.cache
+C:\Users\Ayazhan Mendeshova\Desktop\PP2\Week1\FarM\FarM\obj\Debug\FarM.exe
+C:\Users\Ayazhan Mendeshova\Desktop\PP2\Week1\FarM\FarM\obj\Debug\FarM.pdb
+C:\Users\Ayazhan Mendeshova\Desktop\PP2\Week1\FarM\FarM\obj\Debug\FarM.csprojAssemblyReference.cache
